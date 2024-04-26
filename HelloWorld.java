@@ -4,6 +4,6 @@ public class HelloWorld {
     
     public static void main(String[]args) {
 	HelloWorld h = new HelloWorld();
-        System.out.println("Hi, my name is" + h.nombre + " and I'm 19 years old");
+        System.out.println("Hi, my name is Laura and I'm 19 years old");
     }
 }
